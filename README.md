@@ -59,4 +59,4 @@ This suggested post-compromise execution behavior.
 
 ## Full Investigation Report
 
-📄 Download Full Investigation Report
+📄 [Download Full Investigation Report](./multi-stage-attack-investigation.pdf)
