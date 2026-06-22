@@ -4,7 +4,7 @@
 |-------|-----------|-----------|
 | 1 | Brute Force | T1110 |
 | 2 | Valid Accounts | T1078 |
-| 3 | Command and Scripting Interpreter: PowerShell | T1059.001 |
+| 3 |  PowerShell | T1059.001 |
 | 3 | Ingress Tool Transfer | T1105 |
 
 ## Summary
